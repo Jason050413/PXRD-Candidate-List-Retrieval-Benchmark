@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_HNO
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.91400000
+_cell_length_b   11.78700000
+_cell_length_c   5.61400000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.40000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   HNO
+_chemical_formula_sum   'H16 N16 O16'
+_cell_volume   449.99842140
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  4  0.17740000  0.17100000  0.46730000  1.0
+  H  H1  4  0.21900000  0.05120000  0.44240000  1.0
+  H  H2  4  0.34230000  0.12090000  0.60420000  1.0
+  H  H3  4  0.34830000  0.13120000  0.36500000  1.0
+  N  N4  4  0.10816000  0.62558000  0.60163000  1.0
+  N  N5  4  0.27230000  0.11593000  0.46840000  1.0
+  N  N6  4  0.30866000  0.60981000  0.64420000  1.0
+  N  N7  4  0.39147000  0.63022000  0.44645000  1.0
+  O  O8  4  0.02272000  0.69198000  0.44978000  1.0
+  O  O9  4  0.02506000  0.57303000  0.74501000  1.0
+  O  O10  4  0.30526000  0.62535000  0.23632000  1.0
+  O  O11  4  0.42656000  0.14535000  0.99974000  1.0

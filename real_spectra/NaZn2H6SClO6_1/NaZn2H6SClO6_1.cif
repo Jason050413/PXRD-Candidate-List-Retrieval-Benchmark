@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaZn2H6SClO6
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   8.35400000
+_cell_length_b   8.35400000
+_cell_length_c   13.03100000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZn2H6SClO6
+_chemical_formula_sum   'Na1 Zn2 H6 S1 Cl1 O6'
+_cell_volume   787.58478633
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.10283914  0.04607330  0.03168598  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.06610391  1
+  Zn  Zn2  1  0.13026823  0.12045984  0.07646382  1
+  H  H3  1  0.03126476  0.04768634  0.03806308  1
+  H  H4  1  0.04906252  0.05694717  0.03207735  1
+  H  H5  1  0.05274053  0.03054690  0.06607321  1
+  H  H6  1  0.05377223  0.03165267  0.02248484  1
+  H  H7  1  0.06346118  0.00027644  0.02079656  1
+  H  H8  1  0.08358159  0.01561900  0.01174123  1
+  S  S9  1  0.08597464  0.09214798  0.01716676  1
+  Cl  Cl10  1  0.00000000  0.00000000  0.02406569  1
+  O  O11  1  0.02407432  0.03407154  0.00714450  1
+  O  O12  1  0.05509512  0.06819838  0.02000614  1
+  O  O13  1  0.06266541  0.03083717  0.04014274  1
+  O  O14  1  0.07439370  0.04366410  0.02236973  1
+  O  O15  1  0.08302993  0.05143214  0.00544087  1
+  O  O16  1  0.08597464  0.09214798  0.00840304  1

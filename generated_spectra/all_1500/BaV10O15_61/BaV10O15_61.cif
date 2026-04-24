@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_BaV10O15
+_symmetry_space_group_name_H-M   Pbca
+_cell_length_a   9.41780000
+_cell_length_b   11.61550000
+_cell_length_c   9.87350000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   61
+_chemical_formula_structural   BaV10O15
+_chemical_formula_sum   'Ba4 V40 O60'
+_cell_volume   1080.08641333
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  4  0.00000000  0.00000000  0.50000000  1.0
+  V  V1  8  0.10593000  0.74878000  0.17041000  1.0
+  V  V2  8  0.11246000  0.24143000  0.67945000  1.0
+  V  V3  8  0.13208000  0.13553000  0.90297000  1.0
+  V  V4  8  0.13676000  0.62448000  0.41157000  1.0
+  V  V5  8  0.14202000  0.00407000  0.17522000  1.0
+  O  O6  8  0.00225000  0.24338000  0.00386000  1.0
+  O  O7  8  0.00396000  0.12066000  0.24554000  1.0
+  O  O8  8  0.00644000  0.61407000  0.75047000  1.0
+  O  O9  8  0.24379000  0.00173000  0.84264000  1.0
+  O  O10  8  0.24444000  0.62750000  0.58836000  1.0
+  O  O11  8  0.24508000  0.13318000  0.08838000  1.0
+  O  O12  8  0.24811000  0.74877000  0.32785000  1.0
+  O  O13  4  0.00000000  0.00000000  0.00000000  1.0

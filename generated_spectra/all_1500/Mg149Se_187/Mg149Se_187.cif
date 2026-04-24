@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Mg149Se
+_symmetry_space_group_name_H-M   P-6m2
+_cell_length_a   15.90994418
+_cell_length_b   15.90994418
+_cell_length_c   15.58524120
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   187
+_chemical_formula_structural   Mg149Se
+_chemical_formula_sum   'Mg149 Se1'
+_cell_volume   3416.50036280
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z'
+  3  '-y, x-y, z'
+  4  'x, y, -z'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z'
+  7  '-y, -x, -z'
+  8  'x, x-y, z'
+  9  '-x+y, y, -z'
+  10  '-y, -x, z'
+  11  'x, x-y, -z'
+  12  '-x+y, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  12  0.06656521  0.33322534  0.16683705  1
+  Mg  Mg1  12  0.13325936  0.46676779  0.33383182  1
+  Mg  Mg2  12  0.33434456  0.06719181  0.33403875  1
+  Mg  Mg3  12  0.46673591  0.13350376  0.16620878  1
+  Mg  Mg4  6  0.06643928  0.53321964  0.16716195  1
+  Mg  Mg5  6  0.06651648  0.13303296  0.16716852  1
+  Mg  Mg6  6  0.06700524  0.33301040  0.50000000  1
+  Mg  Mg7  6  0.13322067  0.86677933  0.33367016  1
+  Mg  Mg8  6  0.13328568  0.46650683  0.00000000  1
+  Mg  Mg9  6  0.13379276  0.06689638  0.33389131  1
+  Mg  Mg10  6  0.26684514  0.53369027  0.16716298  1
+  Mg  Mg11  6  0.26698662  0.13349331  0.16750158  1
+  Mg  Mg12  6  0.33342791  0.06689714  0.00000000  1
+  Mg  Mg13  6  0.46727584  0.13230289  0.50000000  1
+  Mg  Mg14  6  0.53327602  0.06655204  0.33283311  1
+  Mg  Mg15  6  0.53441059  0.26720529  0.33322006  1
+  Mg  Mg16  3  0.06637611  0.93362389  0.50000000  1
+  Mg  Mg17  3  0.06639562  0.53319781  0.50000000  1
+  Mg  Mg18  3  0.13330985  0.86669015  0.00000000  1
+  Mg  Mg19  3  0.13361834  0.06680917  0.00000000  1
+  Mg  Mg20  3  0.26695595  0.53391189  0.50000000  1
+  Mg  Mg21  3  0.26810077  0.13405038  0.50000000  1
+  Mg  Mg22  3  0.53330144  0.06660288  0.00000000  1
+  Mg  Mg23  3  0.53380497  0.26690248  0.00000000  1
+  Mg  Mg24  2  0.33333333  0.66666667  0.66612900  1
+  Mg  Mg25  2  0.66666667  0.33333333  0.83161017  1
+  Mg  Mg26  1  0.33333333  0.66666667  0.00000000  1
+  Se  Se27  1  0.66666667  0.33333333  0.50000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KSi2P3
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   10.13270000
+_cell_length_b   10.13820000
+_cell_length_c   21.11810000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.88100000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   KSi2P3
+_chemical_formula_sum   'K16 Si32 P48'
+_cell_volume   2153.78026152
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  8  0.07900000  0.31215000  0.06696000  1.0
+  K  K1  8  0.17061000  0.06269000  0.43298000  1.0
+  Si  Si2  8  0.03099000  0.31249000  0.87364000  1.0
+  Si  Si3  8  0.21918000  0.06246000  0.62663000  1.0
+  Si  Si4  8  0.24844000  0.31234000  0.74997000  1.0
+  Si  Si5  4  0.00000000  0.06400000  0.75000000  1.0
+  Si  Si6  4  0.00000000  0.43900000  0.25000000  1.0
+  P  P7  8  0.07873000  0.18748000  0.56390000  1.0
+  P  P8  8  0.10129000  0.06991000  0.18466000  1.0
+  P  P9  8  0.11562000  0.44438000  0.68380000  1.0
+  P  P10  8  0.13395000  0.30471000  0.31533000  1.0
+  P  P11  8  0.14883000  0.18051000  0.81642000  1.0
+  P  P12  8  0.17176000  0.43768000  0.93609000  1.0

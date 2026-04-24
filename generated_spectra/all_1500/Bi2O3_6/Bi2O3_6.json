@@ -1,0 +1,237 @@
+{
+  "sample_name": "Bi2O3_6",
+  "phase_id": "mp-37036",
+  "formula": "Bi2O3",
+  "space_group": 6,
+  "space_group_symbol": "Pm",
+  "crystal_system": "monoclinic",
+  "source_origin": "materials_project",
+  "slot": "background",
+  "formula_group_id": "Bi2|O3::sg::6",
+  "descriptor": {
+    "phase_id": "mp-37036",
+    "formula": "Bi2O3",
+    "crystal_system": "monoclinic",
+    "elements": [
+      "Bi",
+      "O"
+    ],
+    "density_g_cm3": 13.986064669478019,
+    "avg_z": 33.0,
+    "max_z": 83.0,
+    "heavy_fraction": 0.3333333333333333,
+    "transition_fraction": 0.0,
+    "cell_lengths": [
+      4.21828367,
+      8.19794655,
+      7.32982629
+    ],
+    "cell_angles": [
+      26.56643644,
+      49.21389404999999,
+      54.26433252000001
+    ],
+    "cell_volume": 85.83301718967829,
+    "cell_anisotropy": 1.9434317820546192,
+    "anisotropy_index": 0.9434317820546192,
+    "theoretical_peak_count": 139,
+    "peak_density": 1.6352941176470588,
+    "median_gap_deg": 0.092926025390625,
+    "crowded_fraction": 0.6666666666666666,
+    "isolated_fraction": 0.17391304347826086,
+    "simple_topology": false,
+    "preferred_po_axis": [
+      0,
+      1,
+      0
+    ],
+    "fluorescence_bucket": "moderate",
+    "absorption_bucket": "heavy"
+  },
+  "generation": {
+    "theta_min": 5.0,
+    "theta_max": 90.0,
+    "num_points": 8501,
+    "template_rwp_percent": 15.143708118394594,
+    "template_peak_window_rwp": 18.848401616478842,
+    "template_peak_window_pearson": 0.9850067327473799,
+    "synth_params": {
+      "ka1": 1.5405929,
+      "ka2": 1.5444274,
+      "use_tch_profile": true,
+      "sigma_scale": 0.915935817612402,
+      "kb_ratio": 0.01500880233919089,
+      "use_fcj_asymmetry": true,
+      "detector_nonlinearity": 0.0,
+      "use_ka2": true,
+      "caglioti_u": 0.031390575609021656,
+      "kb": 1.39225,
+      "caglioti_w": 0.0018448797995058975,
+      "detector_deadtime_coeff": 0.0,
+      "axial_s_over_l": 0.0012,
+      "sigma_min_deg": 0.008,
+      "ka2_ratio": 0.48492173130236843,
+      "caglioti_v": 0.007351125729718566,
+      "sigma_deg": 0.01878969372542678,
+      "use_kbeta": true,
+      "beam_sample_ratio": 0.05,
+      "fluorescence_level": 1.0,
+      "muR": 0.04,
+      "trns": 0.03,
+      "fluorescence_decay": 2.9999999999708336,
+      "lorentz_z": 9.999999710217413e-09,
+      "strain": 0.0013335595215187993,
+      "pseudo_voigt_eta": -0.04980077989681021,
+      "lorentz_size": 0.03,
+      "macro_strain": 0.0,
+      "sample_displacement_sr": -0.0008597662925597733,
+      "size_nm": 180.0,
+      "delta_deg": -0.009730343845385396,
+      "lorentz_strain": 0.004293731372071608,
+      "po_r": 1.0,
+      "air_scatter_level": 80.9177678202861,
+      "b3": -10.224985780202408,
+      "scatter_sigma_deg": 2.2481002150830967,
+      "b4": 6.90333967157977,
+      "scatter_level": 59.01010653386529,
+      "compton_level": 29.989056261452916,
+      "holder_scatter_center_deg": 13.639865725534495,
+      "a": 9.234926294909918,
+      "holder_scatter_level": 76.0247422648156,
+      "scatter_center_deg": 4.543052900333561,
+      "b5": -0.6387656729652234,
+      "poisson_counts_max": 6418.349999999999,
+      "air_scatter_floor": 0.04664022827648557,
+      "b1": 58.58361815232062,
+      "b0": 60.3410218408385,
+      "b2": -8.155236974614409,
+      "holder_scatter_sigma_deg": 2.2654616245149013,
+      "po_hkl_axis": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "final_normalize": true
+    },
+    "synth_sampling_meta": {
+      "family_name": "background",
+      "slot": "background",
+      "source_family": "opxrd_like",
+      "preferred_source_family": "opxrd_like",
+      "descriptor": {
+        "phase_id": "mp-37036",
+        "formula": "Bi2O3",
+        "crystal_system": "monoclinic",
+        "elements": [
+          "Bi",
+          "O"
+        ],
+        "density_g_cm3": 13.986064669478019,
+        "avg_z": 33.0,
+        "max_z": 83.0,
+        "heavy_fraction": 0.3333333333333333,
+        "transition_fraction": 0.0,
+        "cell_lengths": [
+          4.21828367,
+          8.19794655,
+          7.32982629
+        ],
+        "cell_angles": [
+          26.56643644,
+          49.21389404999999,
+          54.26433252000001
+        ],
+        "cell_volume": 85.83301718967829,
+        "cell_anisotropy": 1.9434317820546192,
+        "anisotropy_index": 0.9434317820546192,
+        "theoretical_peak_count": 139,
+        "peak_density": 1.6352941176470588,
+        "median_gap_deg": 0.092926025390625,
+        "crowded_fraction": 0.6666666666666666,
+        "isolated_fraction": 0.17391304347826086,
+        "simple_topology": false,
+        "preferred_po_axis": [
+          0,
+          1,
+          0
+        ],
+        "fluorescence_bucket": "moderate",
+        "absorption_bucket": "heavy"
+      },
+      "attempt": 1,
+      "donor_rows": {
+        "instrument": "1191__opxrd_000584__H1_Mg1_O1",
+        "chemistry": "0363__rruff_R050638-1__C2_Cu3_H2_O8",
+        "microstructure": "0322__rruff_R050504-1__Al3_H4_Na1_O12_P2",
+        "orientation": "0210__rruff_R050271-1__Cl1_H1_O1_Pb1",
+        "background": "0617__rruff_R200013__Ag1_Te1"
+      },
+      "donor_rwp_percent": {
+        "instrument": 5.159210709102735,
+        "chemistry": 11.336277291932815,
+        "microstructure": 11.633403992332628,
+        "orientation": 25.338439575433597,
+        "background": 10.842870596894375
+      },
+      "donor_peak_window_rwp": {
+        "instrument": 5.48784949745101,
+        "chemistry": 11.208554719735723,
+        "microstructure": 16.797295087846315,
+        "orientation": 23.05752320588076,
+        "background": 9.019290975003878
+      },
+      "selected_sample_code": "1191__opxrd_000584__H1_Mg1_O1",
+      "selected_peak_window_rwp": 5.48784949745101,
+      "selected_peak_window_pearson": 0.9997162154875435,
+      "selected_background_fraction": 0.6784375208176332
+    },
+    "original_sample_dir": "Bi2O3_SG6",
+    "original_cif_path": "phase.cif",
+    "original_generated_xy_path": "generated.xy",
+    "original_generation_params_json": "generation_params.json",
+    "original_generation_quality_json": "generation_quality.json"
+  },
+  "quality": {
+    "note": "These are theory-vs-generated synthetic quality indicators plus donor-template quality provenance. They are not Rietveld fit-to-experiment outputs.",
+    "theory_vs_generated": {
+      "profile_pearson": 0.6795210002021888,
+      "profile_cosine": 0.654850298636879,
+      "rmse": 6.860897204291706,
+      "mae": 4.8159539275747605,
+      "background_fraction_generated": 43.857180628482205,
+      "top_peak_count_used": 20,
+      "top_peak_height_log_mae": 21.834698418229625,
+      "top_peak_shift_abs_mean_deg": 0.34570064926147365,
+      "peak_window_pearson": 0.6098351106331569,
+      "peak_window_cosine": 0.7117130694217557
+    },
+    "donor_template_quality": {
+      "selected_sample_code": "1191__opxrd_000584__H1_Mg1_O1",
+      "selected_peak_window_rwp": 5.48784949745101,
+      "selected_peak_window_pearson": 0.9997162154875435,
+      "selected_background_fraction": 0.6784375208176332,
+      "donor_rows": {
+        "instrument": "1191__opxrd_000584__H1_Mg1_O1",
+        "chemistry": "0363__rruff_R050638-1__C2_Cu3_H2_O8",
+        "microstructure": "0322__rruff_R050504-1__Al3_H4_Na1_O12_P2",
+        "orientation": "0210__rruff_R050271-1__Cl1_H1_O1_Pb1",
+        "background": "0617__rruff_R200013__Ag1_Te1"
+      },
+      "donor_rwp_percent": {
+        "instrument": 5.159210709102735,
+        "chemistry": 11.336277291932815,
+        "microstructure": 11.633403992332628,
+        "orientation": 25.338439575433597,
+        "background": 10.842870596894375
+      },
+      "donor_peak_window_rwp": {
+        "instrument": 5.48784949745101,
+        "chemistry": 11.208554719735723,
+        "microstructure": 16.797295087846315,
+        "orientation": 23.05752320588076,
+        "background": 9.019290975003878
+      }
+    }
+  },
+  "generation_tier": "strict_core"
+}

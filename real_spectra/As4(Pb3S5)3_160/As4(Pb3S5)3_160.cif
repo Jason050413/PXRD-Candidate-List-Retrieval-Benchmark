@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_As4(Pb3S5)3
+_symmetry_space_group_name_H-M   R3m
+_cell_length_a   17.75800000
+_cell_length_b   17.75800000
+_cell_length_c   7.80700000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   160
+_chemical_formula_structural   As4(Pb3S5)3
+_chemical_formula_sum   'As12 Pb27 S45'
+_cell_volume   2132.07714322
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+  4  '-y, -x, z'
+  5  '-x+y, y, z'
+  6  'x, x-y, z'
+  7  'x+2/3, y+1/3, z+1/3'
+  8  '-y+2/3, x-y+1/3, z+1/3'
+  9  '-x+y+2/3, -x+1/3, z+1/3'
+  10  '-y+2/3, -x+1/3, z+1/3'
+  11  '-x+y+2/3, y+1/3, z+1/3'
+  12  'x+2/3, x-y+1/3, z+1/3'
+  13  'x+1/3, y+2/3, z+2/3'
+  14  '-y+1/3, x-y+2/3, z+2/3'
+  15  '-x+y+1/3, -x+2/3, z+2/3'
+  16  '-y+1/3, -x+2/3, z+2/3'
+  17  '-x+y+1/3, y+2/3, z+2/3'
+  18  'x+1/3, x-y+2/3, z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  9  0.18916667  0.37833333  0.21543333  1
+  As  As1  3  0.00000000  0.00000000  0.05690000  1
+  Pb  Pb2  18  0.10873333  0.68566667  0.66626667  1
+  Pb  Pb3  9  0.08723333  0.91276667  0.50856667  1
+  S  S4  18  0.03296667  0.42093333  0.00843333  1
+  S  S5  9  0.03653333  0.51826667  0.43666667  1
+  S  S6  9  0.13153333  0.06576667  0.19626667  1
+  S  S7  9  0.17100000  0.08550000  0.71740000  1

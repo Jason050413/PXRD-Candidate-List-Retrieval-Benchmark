@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiCl2
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   17.62400000
+_cell_length_b   9.76500000
+_cell_length_c   13.50600000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.91400000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   SiCl2
+_chemical_formula_sum   'Si24 Cl48'
+_cell_volume   2185.37515091
+_cell_formula_units_Z   24
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  8  0.12077000  0.20411000  0.99116000  1.0
+  Si  Si1  8  0.15079000  0.40457000  0.91618000  1.0
+  Si  Si2  8  0.21473000  0.02934000  0.00346000  1.0
+  Cl  Cl3  8  0.01078000  0.13340000  0.90242000  1.0
+  Cl  Cl4  8  0.07712000  0.44173000  0.42873000  1.0
+  Cl  Cl5  8  0.12197000  0.25311000  0.13777000  1.0
+  Cl  Cl6  8  0.13454000  0.36896000  0.76202000  1.0
+  Cl  Cl7  8  0.19280000  0.13103000  0.58558000  1.0
+  Cl  Cl8  8  0.19900000  0.02603000  0.35296000  1.0

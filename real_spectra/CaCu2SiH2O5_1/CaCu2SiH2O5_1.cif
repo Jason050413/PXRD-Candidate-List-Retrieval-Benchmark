@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaCu2SiH2O5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.02300000
+_cell_length_b   5.33620000
+_cell_length_c   16.12900000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCu2SiH2O5
+_chemical_formula_sum   'Ca1 Cu2 Si1 H2 O5'
+_cell_volume   421.23713607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.85475359  0.93337736  0.98904396  1
+  Si  Si1  1  0.80619056  0.00557753  0.99310373  1
+  Cu  Cu2  1  0.90045789  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.97701889  0.90383568  0.00000000  1
+  H  H4  1  0.92628853  0.95730304  0.98040796  1
+  H  H5  1  0.95964557  0.98442138  0.98400397  1
+  O  O6  1  0.80057632  0.87037049  0.99471139  1
+  O  O7  1  0.81969196  0.99484559  0.98724037  1
+  O  O8  1  0.82461879  0.96747723  0.99664579  1
+  O  O9  1  0.90106426  0.87965997  0.98701717  1
+  O  O10  1  0.93594620  0.99263381  0.99365739  1

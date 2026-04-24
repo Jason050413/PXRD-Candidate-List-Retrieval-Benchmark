@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaBePO5
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   4.80400000
+_cell_length_b   7.66100000
+_cell_length_c   9.78900000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.02000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CaBePO5
+_chemical_formula_sum   'Ca4 Be4 P4 O20'
+_cell_volume   360.26889137
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  4  0.00260000  0.61160000  0.16910000  1
+  Be  Be1  4  0.46300000  0.58590000  0.66020000  1
+  P  P2  4  0.47080000  0.22900000  0.58150000  1
+  O  O3  4  0.20390000  0.08770000  0.83320000  1
+  O  O4  4  0.24660000  0.10120000  0.53960000  1
+  O  O5  4  0.33050000  0.10590000  0.14280000  1
+  O  O6  4  0.33310000  0.65550000  0.80650000  1
+  O  O7  4  0.34790000  0.71650000  0.54150000  1

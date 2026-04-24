@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Sr19Li44
+_symmetry_space_group_name_H-M   I-42d
+_cell_length_a   15.91200000
+_cell_length_b   15.91200000
+_cell_length_c   31.83100000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   122
+_chemical_formula_structural   Sr19Li44
+_chemical_formula_sum   'Sr76 Li176'
+_cell_volume   8059.34640326
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x, -y+1/2, -z+1/4'
+  6  'y, x+1/2, z+1/4'
+  7  '-x, y+1/2, -z+1/4'
+  8  '-y, -x+1/2, z+1/4'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  'y+1/2, -x+1/2, -z+1/2'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  '-y+1/2, x+1/2, -z+1/2'
+  13  'x+1/2, -y, -z+3/4'
+  14  'y+1/2, x, z+3/4'
+  15  '-x+1/2, y, -z+3/4'
+  16  '-y+1/2, -x, z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  16  0.00457000  0.68934000  0.25050000  1.0
+  Sr  Sr1  16  0.08591000  0.59830000  0.54973000  1.0
+  Sr  Sr2  16  0.09496000  0.10960000  0.79698000  1.0
+  Sr  Sr3  16  0.14422000  0.65261000  0.67421000  1.0
+  Sr  Sr4  8  0.00000000  0.00000000  0.09493000  1.0
+  Sr  Sr5  4  0.00000000  0.00000000  0.50000000  1.0
+  Li  Li6  16  0.01270000  0.73610000  0.36860000  1.0
+  Li  Li7  16  0.06380000  0.78120000  0.46830000  1.0
+  Li  Li8  16  0.06460000  0.57430000  0.85710000  1.0
+  Li  Li9  16  0.07760000  0.20840000  0.53370000  1.0
+  Li  Li10  16  0.11150000  0.13800000  0.18180000  1.0
+  Li  Li11  16  0.13250000  0.65680000  0.93400000  1.0
+  Li  Li12  16  0.15380000  0.17600000  0.08860000  1.0
+  Li  Li13  16  0.17360000  0.18190000  0.91290000  1.0
+  Li  Li14  16  0.18650000  0.71630000  0.84510000  1.0
+  Li  Li15  16  0.22830000  0.24290000  0.00700000  1.0
+  Li  Li16  8  0.01250000  0.75000000  0.12500000  1.0
+  Li  Li17  8  0.04250000  0.25000000  0.62500000  1.0

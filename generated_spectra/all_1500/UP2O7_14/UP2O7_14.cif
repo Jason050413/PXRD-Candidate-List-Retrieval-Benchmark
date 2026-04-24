@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_UP2O7
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   7.68600000
+_cell_length_b   9.27500000
+_cell_length_c   13.18248923
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.30109375
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   UP2O7
+_chemical_formula_sum   'U4 P8 O28'
+_cell_volume   785.43901394
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  4  0.22479000  0.23446000  0.44329000  1.0
+  P  P1  4  0.10330000  0.64330000  0.95190000  1.0
+  P  P2  4  0.47380000  0.01560000  0.84140000  1.0
+  O  O3  4  0.01280000  0.68050000  0.66870000  1.0
+  O  O4  4  0.06300000  0.00730000  0.40300000  1.0
+  O  O5  4  0.08700000  0.21830000  0.56510000  1.0
+  O  O6  4  0.21780000  0.10520000  0.27210000  1.0
+  O  O7  4  0.32670000  0.05810000  0.06250000  1.0
+  O  O8  4  0.41260000  0.14240000  0.88220000  1.0
+  O  O9  4  0.45980000  0.14920000  0.55350000  1.0

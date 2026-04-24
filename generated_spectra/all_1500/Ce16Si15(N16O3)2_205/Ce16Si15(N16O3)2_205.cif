@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Ce16Si15(N16O3)2
+_symmetry_space_group_name_H-M   Pa-3
+_cell_length_a   15.40360000
+_cell_length_b   15.40360000
+_cell_length_c   15.40360000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   205
+_chemical_formula_structural   Ce16Si15(N16O3)2
+_chemical_formula_sum   'Ce64 Si60 N128 O24'
+_cell_volume   3654.82592680
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-x+1/2, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+  9  'z, x, y'
+  10  '-z, -x, -y'
+  11  'z+1/2, -x+1/2, -y'
+  12  '-z+1/2, x+1/2, y'
+  13  '-z, x+1/2, -y+1/2'
+  14  'z, -x+1/2, y+1/2'
+  15  '-z+1/2, -x, y+1/2'
+  16  'z+1/2, x, -y+1/2'
+  17  'y, z, x'
+  18  '-y, -z, -x'
+  19  '-y, z+1/2, -x+1/2'
+  20  'y, -z+1/2, x+1/2'
+  21  '-y+1/2, -z, x+1/2'
+  22  'y+1/2, z, -x+1/2'
+  23  'y+1/2, -z+1/2, -x'
+  24  '-y+1/2, z+1/2, x'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  24  0.10306000  0.12567000  0.37095000  1.0
+  Ce  Ce1  24  0.12038000  0.64563000  0.63212000  1.0
+  Ce  Ce2  8  0.09583000  0.09583000  0.09583000  1.0
+  Ce  Ce3  8  0.11974000  0.61974000  0.88026000  1.0
+  Si  Si4  24  0.01288000  0.52033000  0.75448000  1.0
+  Si  Si5  24  0.01647000  0.24135000  0.73100000  1.0
+  Si  Si6  8  0.23016000  0.23016000  0.23016000  1.0
+  Si  Si7  4  0.00000000  0.00000000  0.50000000  1.0
+  N  N8  24  0.00020000  0.73290000  0.37620000  1.0
+  N  N9  24  0.00280000  0.13650000  0.49510000  1.0
+  N  N10  24  0.00370000  0.63380000  0.75080000  1.0
+  N  N11  24  0.02400000  0.16800000  0.95920000  1.0
+  N  N12  24  0.04090000  0.69990000  0.20000000  1.0
+  N  N13  8  0.20720000  0.70720000  0.79280000  1.0
+  O  O14  24  0.12440000  0.24470000  0.25830000  1.0

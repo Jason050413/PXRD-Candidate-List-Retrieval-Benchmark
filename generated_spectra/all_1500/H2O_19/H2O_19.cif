@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_H2O
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   3.91332667
+_cell_length_b   7.88826668
+_cell_length_c   8.10720272
+_cell_angle_alpha   90.00495625
+_cell_angle_beta   90.00860154
+_cell_angle_gamma   90.01589524
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   H2O
+_chemical_formula_sum   'H24 O12'
+_cell_volume   250.26418101
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, y, z'
+  3  '-x+539/719, -y, z+1/2'
+  4  '-x+539/719, -y, z+1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  'x+1/2, -y+1/2, -z+1/2'
+  7  '-x+179/717, y+1/2, -z'
+  8  '-x+179/717, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  4  0.00530811  0.83991291  0.58413297  1
+  H  H1  4  0.05610105  0.71879435  0.27450023  1
+  H  H2  4  0.10803864  0.45426584  0.90406974  1
+  H  H3  4  0.26768675  0.07267643  0.84843988  1
+  H  H4  4  0.28939714  0.77848332  0.71415684  1
+  H  H5  4  0.35090581  0.59031186  0.53393478  1
+  O  O6  4  -0.00002698  0.00240785  0.00676578  1
+  O  O7  4  0.11098665  0.73948274  0.63691598  1
+  O  O8  4  0.37009578  0.13413739  0.75437716  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TaS3
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   19.90000000
+_cell_length_b   3.34000000
+_cell_length_c   15.20000000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.40000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   TaS3
+_chemical_formula_sum   'Ta12 S36'
+_cell_volume   934.05332539
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  4  0.15004000  0.50000000  0.44935000  1.0
+  Ta  Ta1  4  0.15094000  0.50000000  0.95145000  1.0
+  Ta  Ta2  4  0.17317000  0.00000000  0.21155000  1.0
+  S  S3  4  0.04630000  0.00000000  0.40640000  1.0
+  S  S4  4  0.04990000  0.00000000  0.89260000  1.0
+  S  S5  4  0.10160000  0.50000000  0.26830000  1.0
+  S  S6  4  0.10490000  0.50000000  0.08560000  1.0
+  S  S7  4  0.11800000  0.00000000  0.55220000  1.0
+  S  S8  4  0.11950000  0.00000000  0.81730000  1.0
+  S  S9  4  0.22540000  0.00000000  0.06910000  1.0
+  S  S10  4  0.22600000  0.00000000  0.73790000  1.0
+  S  S11  4  0.22700000  0.00000000  0.40800000  1.0

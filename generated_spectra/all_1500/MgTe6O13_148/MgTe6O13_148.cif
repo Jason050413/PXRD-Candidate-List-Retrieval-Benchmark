@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_MgTe6O13
+_symmetry_space_group_name_H-M   R-3
+_cell_length_a   10.16760000
+_cell_length_b   10.16760000
+_cell_length_c   18.97010000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   148
+_chemical_formula_structural   MgTe6O13
+_chemical_formula_sum   'Mg6 Te36 O78'
+_cell_volume   1698.38895503
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'x+2/3, y+1/3, z+1/3'
+  8  '-x+2/3, -y+1/3, -z+1/3'
+  9  '-y+2/3, x-y+1/3, z+1/3'
+  10  'y+2/3, -x+y+1/3, -z+1/3'
+  11  '-x+y+2/3, -x+1/3, z+1/3'
+  12  'x-y+2/3, x+1/3, -z+1/3'
+  13  'x+1/3, y+2/3, z+2/3'
+  14  '-x+1/3, -y+2/3, -z+2/3'
+  15  '-y+1/3, x-y+2/3, z+2/3'
+  16  'y+1/3, -x+y+2/3, -z+2/3'
+  17  '-x+y+1/3, -x+2/3, z+2/3'
+  18  'x-y+1/3, x+2/3, -z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  6  0.00000000  0.00000000  0.25605333  1.0
+  Te  Te1  18  0.06141867  0.82959833  0.40922933  1.0
+  Te  Te2  18  0.08243500  0.84482800  0.90475900  1.0
+  O  O3  18  0.00103000  0.74925000  0.05181000  1.0
+  O  O4  18  0.05129667  0.85879333  0.31362333  1.0
+  O  O5  18  0.05464333  0.87117667  0.56847667  1.0
+  O  O6  18  0.09012000  0.20309000  0.80748000  1.0
+  O  O7  6  0.00000000  0.00000000  0.08633000  1.0

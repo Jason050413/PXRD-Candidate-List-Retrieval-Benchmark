@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaMgPH2O5
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   5.43500000
+_cell_length_b   5.71400000
+_cell_length_c   6.76600000
+_cell_angle_alpha   107.27000000
+_cell_angle_beta   97.26000000
+_cell_angle_gamma   108.56000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgPH2O5
+_chemical_formula_sum   'Ca1 Mg1 P1 H2 O5'
+_cell_volume   184.46509411
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.13096844  0.14295054  0.14295674  1
+  Mg  Mg1  1  0.00000000  0.00000000  0.00000000  1
+  P  P2  1  0.13274965  0.12090718  0.06353192  1
+  H  H3  1  0.03002027  0.05336251  0.06620343  1
+  H  H4  1  0.17812028  0.21610089  0.07799334  1
+  O  O5  1  0.01370926  0.18625786  0.04563308  1
+  O  O6  1  0.08061444  0.07844738  0.02682868  1
+  O  O7  1  0.12676560  0.09447202  0.08255038  1
+  O  O8  1  0.14433747  0.18283758  0.08788849  1
+  O  O9  1  0.17822035  0.13117482  0.05442500  1

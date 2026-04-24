@@ -1,0 +1,122 @@
+# generated using pymatgen
+data_Na
+_symmetry_space_group_name_H-M   Fm-3m
+_cell_length_a   3.77658216
+_cell_length_b   3.77658216
+_cell_length_c   3.75320059
+_cell_angle_alpha   120.20629391
+_cell_angle_beta   120.20629391
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   225
+_chemical_formula_structural   Na
+_chemical_formula_sum   Na1
+_cell_volume   37.61435067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, y, z'
+  3  '-x, -y, -z'
+  4  '-x, -y, -z'
+  5  'y, -x+z, z'
+  6  'y, -x+z, z'
+  7  '-y, x-z, -z'
+  8  '-y, x-z, -z'
+  9  '-x+z, -y+z, z'
+  10  '-x+z, -y+z, z'
+  11  'x-z, y-z, -z'
+  12  'x-z, y-z, -z'
+  13  '-y+z, x, z'
+  14  '-y+z, x, z'
+  15  'y-z, -x, -z'
+  16  'y-z, -x, -z'
+  17  'y-z, x-z, -z'
+  18  'y-z, x-z, -z'
+  19  '-y+z, -x+z, z'
+  20  '-y+z, -x+z, z'
+  21  '-x, y-z, -z'
+  22  '-x, y-z, -z'
+  23  'x, -y+z, z'
+  24  'x, -y+z, z'
+  25  '-y, -x, -z'
+  26  '-y, -x, -z'
+  27  'y, x, z'
+  28  'y, x, z'
+  29  'x-z, -y, -z'
+  30  'x-z, -y, -z'
+  31  '-x+z, y, z'
+  32  '-x+z, y, z'
+  33  'x, -y+z, x-y'
+  34  'x, -y+z, x-y'
+  35  '-x, y-z, -x+y'
+  36  '-x, y-z, -x+y'
+  37  'y, x, x+y-z'
+  38  'y, x, x+y-z'
+  39  '-y, -x, -x-y+z'
+  40  '-y, -x, -x-y+z'
+  41  '-x+z, y, -x+y'
+  42  '-x+z, y, -x+y'
+  43  'x-z, -y, x-y'
+  44  'x-z, -y, x-y'
+  45  '-y+z, -x+z, -x-y+z'
+  46  '-y+z, -x+z, -x-y+z'
+  47  'y-z, x-z, x+y-z'
+  48  'y-z, x-z, x+y-z'
+  49  'y-z, -x, -x+y'
+  50  'y-z, -x, -x+y'
+  51  '-y+z, x, x-y'
+  52  '-y+z, x, x-y'
+  53  '-x, -y, -x-y+z'
+  54  '-x, -y, -x-y+z'
+  55  'x, y, x+y-z'
+  56  'x, y, x+y-z'
+  57  '-y, x-z, x-y'
+  58  '-y, x-z, x-y'
+  59  'y, -x+z, -x+y'
+  60  'y, -x+z, -x+y'
+  61  'x-z, y-z, x+y-z'
+  62  'x-z, y-z, x+y-z'
+  63  '-x+z, -y+z, -x-y+z'
+  64  '-x+z, -y+z, -x-y+z'
+  65  'x, x-z, x+y-z'
+  66  'x, x-z, x+y-z'
+  67  '-x, -x+z, -x-y+z'
+  68  '-x, -x+z, -x-y+z'
+  69  'y, y-z, -x+y'
+  70  'y, y-z, -x+y'
+  71  '-y, -y+z, x-y'
+  72  '-y, -y+z, x-y'
+  73  '-x+z, -x, -x-y+z'
+  74  '-x+z, -x, -x-y+z'
+  75  'x-z, x, x+y-z'
+  76  'x-z, x, x+y-z'
+  77  '-y+z, -y, x-y'
+  78  '-y+z, -y, x-y'
+  79  'y-z, y, -x+y'
+  80  'y-z, y, -x+y'
+  81  'y-z, y, x+y-z'
+  82  'y-z, y, x+y-z'
+  83  '-y+z, -y, -x-y+z'
+  84  '-y+z, -y, -x-y+z'
+  85  '-x, -x+z, -x+y'
+  86  '-x, -x+z, -x+y'
+  87  'x, x-z, x-y'
+  88  'x, x-z, x-y'
+  89  '-y, -y+z, -x-y+z'
+  90  '-y, -y+z, -x-y+z'
+  91  'y, y-z, x+y-z'
+  92  'y, y-z, x+y-z'
+  93  'x-z, x, x-y'
+  94  'x-z, x, x-y'
+  95  '-x+z, -x, -x+y'
+  96  '-x+z, -x, -x+y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.00000000  0.00000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li27As10
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   7.44117000
+_cell_length_b   21.66098600
+_cell_length_c   7.44709604
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.83058110
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   Li27As10
+_chemical_formula_sum   'Li54 As20'
+_cell_volume   1136.09990079
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  8  0.11573650  0.29884550  0.34707000  1
+  Li  Li1  8  0.11621000  0.39387400  0.88369000  1
+  Li  Li2  8  0.12056650  0.09061150  0.38322100  1
+  Li  Li3  8  0.13675400  0.20648000  0.88726000  1
+  Li  Li4  4  0.00000000  0.09981900  0.00000000  1
+  Li  Li5  4  0.00000000  0.19921600  0.50000000  1
+  Li  Li6  4  0.00000000  0.39849900  0.50000000  1
+  Li  Li7  4  0.11296300  0.00000000  0.84993500  1
+  Li  Li8  4  0.14827600  0.50000000  0.38401300  1
+  Li  Li9  2  0.00000000  0.50000000  0.00000000  1
+  As  As10  8  0.24410250  0.19621650  0.26744600  1
+  As  As11  8  0.24498600  0.10073300  0.75261900  1
+  As  As12  4  0.23518800  0.50000000  0.76296600  1

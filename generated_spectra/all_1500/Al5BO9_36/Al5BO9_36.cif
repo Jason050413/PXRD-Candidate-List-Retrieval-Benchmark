@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Al5BO9
+_symmetry_space_group_name_H-M   Cmc2_1
+_cell_length_a   5.67665024
+_cell_length_b   14.97544164
+_cell_length_c   7.68933993
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   36
+_chemical_formula_structural   Al5BO9
+_chemical_formula_sum   'Al20 B4 O36'
+_cell_volume   653.67343550
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  8  0.24802904  0.38413314  0.49954727  1
+  Al  Al1  4  0.00000000  0.25539847  0.18360435  1
+  Al  Al2  4  0.00000000  0.29702086  0.83311280  1
+  Al  Al3  4  0.00000000  0.44353826  0.18443282  1
+  B  B4  4  0.00000000  0.01541878  0.72181450  1
+  O  O5  8  0.21059308  0.04787761  0.78626327  1
+  O  O6  8  0.24276174  0.30985728  0.69962396  1
+  O  O7  4  0.00000000  0.04634812  0.09263808  1
+  O  O8  4  0.00000000  0.19123457  0.93532465  1
+  O  O9  4  0.00000000  0.33051283  0.36765672  1
+  O  O10  4  0.00000000  0.35225556  0.03667480  1
+  O  O11  4  0.00000000  0.45449328  0.57266828  1

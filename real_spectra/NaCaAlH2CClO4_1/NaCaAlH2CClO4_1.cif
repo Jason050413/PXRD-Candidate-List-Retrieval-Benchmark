@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaCaAlH2CClO4
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   6.54100000
+_cell_length_b   11.16700000
+_cell_length_c   11.16700000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaAlH2CClO4
+_chemical_formula_sum   'Na1 Ca1 Al1 H2 C1 Cl1 O4'
+_cell_volume   815.67505595
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14325638  0.02238739  0.02238739  1
+  Ca  Ca1  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al2  1  0.07644091  0.03624877  0.96375123  1
+  H  H3  1  0.08821281  0.03501388  0.03501388  1
+  H  H4  1  0.11007491  0.02238739  0.08363929  1
+  C  C5  1  0.02393059  0.02238739  0.04602489  1
+  Cl  Cl6  1  0.07164501  0.02238739  0.02238739  1
+  O  O7  1  0.09160373  0.02238739  0.08121787  1
+  O  O8  1  0.09282220  0.03929256  0.03929256  1
+  O  O9  1  0.11604953  0.04127608  0.05818035  1
+  O  O10  1  0.15011007  0.02238739  0.04167099  1

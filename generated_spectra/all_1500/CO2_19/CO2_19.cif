@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CO2
+_symmetry_space_group_name_H-M   P2_12_12_1
+_cell_length_a   3.99084900
+_cell_length_b   6.80198300
+_cell_length_c   7.13573300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   19
+_chemical_formula_structural   CO2
+_chemical_formula_sum   'C8 O16'
+_cell_volume   193.70437492
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+1/2, -y, z+1/2'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  4  0.00443100  0.81712800  0.91755200  1
+  C  C1  4  0.05754600  0.69159300  0.58465700  1
+  O  O2  4  0.17136100  0.49444600  0.58272200  1
+  O  O3  4  0.17766200  0.77669400  0.75242300  1
+  O  O4  4  0.21558800  0.79140400  0.43637200  1
+  O  O5  4  0.24728400  0.17196800  0.55927100  1

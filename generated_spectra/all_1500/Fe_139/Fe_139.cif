@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Fe
+_symmetry_space_group_name_H-M   I4/mmm
+_cell_length_a   2.45268720
+_cell_length_b   2.45268724
+_cell_length_c   7.86042065
+_cell_angle_alpha   90.00418265
+_cell_angle_beta   89.99591017
+_cell_angle_gamma   104.68529188
+_symmetry_Int_Tables_number   139
+_chemical_formula_structural   Fe
+_chemical_formula_sum   Fe4
+_cell_volume   45.74104301
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z+1/2'
+  3  'y, x, -z+1/2'
+  4  '-y, -x, z'
+  5  '-y, -x, -z+1/2'
+  6  'y, x, z'
+  7  '-x, -y, z'
+  8  'x, y, -z+1/2'
+  9  'x+1/2, y+1/2, z+1/4'
+  10  '-x+1/2, -y+1/2, -z+3/4'
+  11  'y+1/2, x+1/2, -z+3/4'
+  12  '-y+1/2, -x+1/2, z+1/4'
+  13  '-y+1/2, -x+1/2, -z+3/4'
+  14  'y+1/2, x+1/2, z+1/4'
+  15  '-x+1/2, -y+1/2, z+1/4'
+  16  'x+1/2, y+1/2, -z+3/4'
+  17  'x, y, z+1/2'
+  18  '-x, -y, -z'
+  19  'y, x, -z'
+  20  '-y, -x, z+1/2'
+  21  '-y, -x, -z'
+  22  'y, x, z+1/2'
+  23  '-x, -y, z+1/2'
+  24  'x, y, -z'
+  25  'x+1/2, y+1/2, z+3/4'
+  26  '-x+1/2, -y+1/2, -z+1/4'
+  27  'y+1/2, x+1/2, -z+1/4'
+  28  '-y+1/2, -x+1/2, z+3/4'
+  29  '-y+1/2, -x+1/2, -z+1/4'
+  30  'y+1/2, x+1/2, z+3/4'
+  31  '-x+1/2, -y+1/2, z+3/4'
+  32  'x+1/2, y+1/2, -z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  4  0.50003400  0.49996500  0.25013200  1

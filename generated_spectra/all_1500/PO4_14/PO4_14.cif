@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PO4
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   6.19553300
+_cell_length_b   5.09554600
+_cell_length_c   12.07638954
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.97365066
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   PO4
+_chemical_formula_sum   'P4 O16'
+_cell_volume   379.81155037
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  4  0.20643700  0.19632300  0.63486100  1
+  O  O1  4  0.04330300  0.68569100  0.87669700  1
+  O  O2  4  0.27693200  0.14509500  0.03564200  1
+  O  O3  4  0.28094500  0.17362200  0.24665900  1
+  O  O4  4  0.30427000  0.58072600  0.13283000  1

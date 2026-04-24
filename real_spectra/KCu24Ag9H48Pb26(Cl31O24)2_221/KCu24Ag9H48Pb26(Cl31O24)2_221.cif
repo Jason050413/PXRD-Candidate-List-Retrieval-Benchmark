@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_KCu24Ag9H48Pb26(Cl31O24)2
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   15.28800000
+_cell_length_b   15.28800000
+_cell_length_c   15.28800000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   KCu24Ag9H48Pb26(Cl31O24)2
+_chemical_formula_sum   'K1 Cu24 Ag9 H48 Pb26 Cl62 O48'
+_cell_volume   3573.15636787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu1  24  0.09458000  0.25567000  0.25567000  1
+  Ag  Ag2  6  0.00000000  0.00000000  0.15730000  1
+  Ag  Ag3  3  0.00000000  0.00000000  0.50000000  1
+  H  H4  24  0.00000000  0.14700000  0.33900000  1
+  H  H5  24  0.16200000  0.16200000  0.36400000  1
+  Pb  Pb6  12  0.00000000  0.27356000  0.50000000  1
+  Pb  Pb7  8  0.30301000  0.30301000  0.30301000  1
+  Pb  Pb8  6  0.22633000  0.50000000  0.50000000  1
+  Cl  Cl9  24  0.12100000  0.38480000  0.38480000  1
+  Cl  Cl10  12  0.13160000  0.13160000  0.50000000  1
+  Cl  Cl11  12  0.33060000  0.33060000  0.50000000  1
+  Cl  Cl12  8  0.12220000  0.12220000  0.12220000  1
+  Cl  Cl13  6  0.00000000  0.00000000  0.32960000  1
+  O  O14  24  0.00000000  0.21040000  0.33020000  1
+  O  O15  24  0.18800000  0.18800000  0.31190000  1

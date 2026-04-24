@@ -1,0 +1,123 @@
+# generated using pymatgen
+data_Li2O
+_symmetry_space_group_name_H-M   Fm-3m
+_cell_length_a   3.29066929
+_cell_length_b   3.29066917
+_cell_length_c   3.29066900
+_cell_angle_alpha   59.99999165
+_cell_angle_beta   59.99999290
+_cell_angle_gamma   59.99999982
+_symmetry_Int_Tables_number   225
+_chemical_formula_structural   Li2O
+_chemical_formula_sum   'Li2 O1'
+_cell_volume   25.19634879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, y, z'
+  3  '-x, -y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -z, x+y+z'
+  6  '-y, -z, x+y+z'
+  7  'y, z, -x-y-z'
+  8  'y, z, -x-y-z'
+  9  'z, -x-y-z, x'
+  10  'z, -x-y-z, x'
+  11  '-z, x+y+z, -x'
+  12  '-z, x+y+z, -x'
+  13  'x+y+z, -x, -y'
+  14  'x+y+z, -x, -y'
+  15  '-x-y-z, x, y'
+  16  '-x-y-z, x, y'
+  17  'y, x, -x-y-z'
+  18  'y, x, -x-y-z'
+  19  '-y, -x, x+y+z'
+  20  '-y, -x, x+y+z'
+  21  '-z, -y, -x'
+  22  '-z, -y, -x'
+  23  'z, y, x'
+  24  'z, y, x'
+  25  '-x-y-z, z, y'
+  26  '-x-y-z, z, y'
+  27  'x+y+z, -z, -y'
+  28  'x+y+z, -z, -y'
+  29  '-x, x+y+z, -z'
+  30  '-x, x+y+z, -z'
+  31  'x, -x-y-z, z'
+  32  'x, -x-y-z, z'
+  33  'z, x, y'
+  34  'z, x, y'
+  35  '-z, -x, -y'
+  36  '-z, -x, -y'
+  37  'x+y+z, -y, -z'
+  38  'x+y+z, -y, -z'
+  39  '-x-y-z, y, z'
+  40  '-x-y-z, y, z'
+  41  'x, z, -x-y-z'
+  42  'x, z, -x-y-z'
+  43  '-x, -z, x+y+z'
+  44  '-x, -z, x+y+z'
+  45  '-y, x+y+z, -x'
+  46  '-y, x+y+z, -x'
+  47  'y, -x-y-z, x'
+  48  'y, -x-y-z, x'
+  49  '-x-y-z, y, x'
+  50  '-x-y-z, y, x'
+  51  'x+y+z, -y, -x'
+  52  'x+y+z, -y, -x'
+  53  '-x, -z, -y'
+  54  '-x, -z, -y'
+  55  'x, z, y'
+  56  'x, z, y'
+  57  'y, -x-y-z, z'
+  58  'y, -x-y-z, z'
+  59  '-y, x+y+z, -z'
+  60  '-y, x+y+z, -z'
+  61  '-z, -x, x+y+z'
+  62  '-z, -x, x+y+z'
+  63  'z, x, -x-y-z'
+  64  'z, x, -x-y-z'
+  65  'y, z, x'
+  66  'y, z, x'
+  67  '-y, -z, -x'
+  68  '-y, -z, -x'
+  69  '-z, x+y+z, -y'
+  70  '-z, x+y+z, -y'
+  71  'z, -x-y-z, y'
+  72  'z, -x-y-z, y'
+  73  '-x-y-z, x, z'
+  74  '-x-y-z, x, z'
+  75  'x+y+z, -x, -z'
+  76  'x+y+z, -x, -z'
+  77  '-x, -y, x+y+z'
+  78  '-x, -y, x+y+z'
+  79  'x, y, -x-y-z'
+  80  'x, y, -x-y-z'
+  81  'x, -x-y-z, y'
+  82  'x, -x-y-z, y'
+  83  '-x, x+y+z, -y'
+  84  '-x, x+y+z, -y'
+  85  '-y, -x, -z'
+  86  '-y, -x, -z'
+  87  'y, x, z'
+  88  'y, x, z'
+  89  'z, y, -x-y-z'
+  90  'z, y, -x-y-z'
+  91  '-z, -y, x+y+z'
+  92  '-z, -y, x+y+z'
+  93  'x+y+z, -z, -x'
+  94  'x+y+z, -z, -x'
+  95  '-x-y-z, z, x'
+  96  '-x-y-z, z, x'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  2  0.25000000  0.25000000  0.25000000  1
+  O  O1  1  0.00000000  0.00000000  0.00000000  1

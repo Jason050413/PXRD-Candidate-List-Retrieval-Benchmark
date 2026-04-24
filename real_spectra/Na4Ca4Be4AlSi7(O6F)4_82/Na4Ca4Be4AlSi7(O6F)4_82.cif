@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Na4Ca4Be4AlSi7(O6F)4
+_symmetry_space_group_name_H-M   I-4
+_cell_length_a   10.52570000
+_cell_length_b   10.52570000
+_cell_length_c   9.88680000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   82
+_chemical_formula_structural   Na4Ca4Be4AlSi7(O6F)4
+_chemical_formula_sum   'Na8 Ca8 Be8 Al2 Si14 O48 F8'
+_cell_volume   1095.36213609
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  'y+1/2, -x+1/2, -z+1/2'
+  7  '-x+1/2, -y+1/2, z+1/2'
+  8  '-y+1/2, x+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  8  0.08693000  0.76100000  0.24927000  1
+  Ca  Ca1  8  0.09040000  0.74538000  0.74432000  1
+  Be  Be2  8  0.10681000  0.24830000  0.52670000  1
+  Al  Al3  2  0.00000000  0.00000000  0.00000000  1
+  Si  Si4  8  0.11166000  0.25251000  0.02598000  1
+  Si  Si5  4  0.00000000  0.50000000  0.50573000  1
+  Si  Si6  2  0.00000000  0.00000000  0.50000000  1
+  O  O7  8  0.03098000  0.12502000  0.59253000  1
+  O  O8  8  0.03894000  0.37771000  0.09228000  1
+  O  O9  8  0.04077000  0.37662000  0.59501000  1
+  O  O10  8  0.04677000  0.12831000  0.09738000  1
+  O  O11  8  0.10467000  0.25369000  0.86522000  1
+  O  O12  8  0.24399000  0.75297000  0.41165000  1
+  F  F13  8  0.10789000  0.24825000  0.36846000  1

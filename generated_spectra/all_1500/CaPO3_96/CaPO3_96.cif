@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaPO3
+_symmetry_space_group_name_H-M   P4_32_12
+_cell_length_a   6.69200000
+_cell_length_b   6.69200000
+_cell_length_c   13.03050000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   96
+_chemical_formula_structural   CaPO3
+_chemical_formula_sum   'Ca8 P8 O24'
+_cell_volume   583.54310935
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z+3/4'
+  3  '-x, -y, z+1/2'
+  4  'y+1/2, -x+1/2, z+1/4'
+  5  'x+1/2, -y+1/2, -z+1/4'
+  6  '-y, -x, -z+1/2'
+  7  '-x+1/2, y+1/2, -z+3/4'
+  8  'y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  8  0.10252000  0.31840000  0.88101000  1.0
+  P  P1  8  0.07104000  0.20253000  0.35517000  1.0
+  O  O2  8  0.02220000  0.94050000  0.62389000  1.0
+  O  O3  8  0.05970000  0.63660000  0.80370000  1.0
+  O  O4  8  0.16040000  0.26610000  0.70011000  1.0

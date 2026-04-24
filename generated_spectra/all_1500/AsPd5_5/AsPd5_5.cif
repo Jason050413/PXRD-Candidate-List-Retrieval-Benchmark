@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AsPd5
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   5.52000000
+_cell_length_b   7.73900000
+_cell_length_c   8.42600000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.99000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   AsPd5
+_chemical_formula_sum   'As4 Pd20'
+_cell_volume   355.53086117
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  4  0.22800000  0.97900000  0.71500000  1.0
+  Pd  Pd1  4  0.03400000  0.75000000  0.17600000  1.0
+  Pd  Pd2  4  0.04000000  0.23100000  0.17400000  1.0
+  Pd  Pd3  4  0.14400000  0.45900000  0.64700000  1.0
+  Pd  Pd4  4  0.24200000  0.49300000  0.99300000  1.0
+  Pd  Pd5  2  0.00000000  0.13300000  0.50000000  1.0
+  Pd  Pd6  2  0.00000000  0.76900000  0.50000000  1.0

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "PXRD Candidate List Retrieval Benchmark"
+message: "If you use this benchmark, please cite the associated manuscript and this dataset release."
+type: dataset
+authors:
+  - family-names: Yan
+    given-names: Jiachen
+  - family-names: Shu
+    given-names: Zhu
+version: "1.0.0"
+date-released: "2026-04-24"
+repository-code: "https://github.com/Jason050413/PXRD-Candidate-List-Retrieval-Benchmark"
+license: "CC-BY-4.0"
+keywords:
+  - powder X-ray diffraction
+  - PXRD
+  - candidate list retrieval
+  - benchmark
+  - theoretical spectrum library

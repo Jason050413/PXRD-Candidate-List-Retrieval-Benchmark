@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Cd31Se20
+_symmetry_space_group_name_H-M   Cmcm
+_cell_length_a   36.83700000
+_cell_length_b   44.17200000
+_cell_length_c   35.26900000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   63
+_chemical_formula_structural   Cd31Se20
+_chemical_formula_sum   'Cd124 Se80'
+_cell_volume   57388.44584632
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z+1/2'
+  12  'x+1/2, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z+1/2'
+  16  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  16  0.05640000  0.10260000  0.19190000  1.0
+  Cd  Cd1  16  0.05640000  0.23460000  0.06580000  1.0
+  Cd  Cd2  16  0.05710000  0.23860000  0.18860000  1.0
+  Cd  Cd3  16  0.11620000  0.16760000  0.12990000  1.0
+  Cd  Cd4  16  0.17090000  0.10110000  0.19170000  1.0
+  Cd  Cd5  8  0.00000000  0.16890000  0.12840000  1.0
+  Cd  Cd6  8  0.00000000  0.30220000  0.12910000  1.0
+  Cd  Cd7  8  0.11500000  0.16910000  0.25000000  1.0
+  Cd  Cd8  8  0.11770000  0.03450000  0.25000000  1.0
+  Cd  Cd9  4  0.00000000  0.02980000  0.25000000  1.0
+  Cd  Cd10  4  0.00000000  0.16560000  0.25000000  1.0
+  Cd  Cd11  4  0.00000000  0.30310000  0.25000000  1.0
+  Se  Se12  16  0.05700000  0.20220000  0.12830000  1.0
+  Se  Se13  16  0.11400000  0.13570000  0.19150000  1.0
+  Se  Se14  8  0.00000000  0.13540000  0.19360000  1.0
+  Se  Se15  8  0.00000000  0.26830000  0.06610000  1.0
+  Se  Se16  8  0.00000000  0.27240000  0.18880000  1.0
+  Se  Se17  8  0.05370000  0.06770000  0.25000000  1.0
+  Se  Se18  8  0.05680000  0.20440000  0.25000000  1.0
+  Se  Se19  8  0.17290000  0.06680000  0.25000000  1.0

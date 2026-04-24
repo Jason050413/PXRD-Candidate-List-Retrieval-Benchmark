@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ag(MoO4)2
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   10.11010000
+_cell_length_b   11.42320000
+_cell_length_c   11.54740000
+_cell_angle_alpha   63.31200000
+_cell_angle_beta   76.60000000
+_cell_angle_gamma   88.95100000
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   Ag(MoO4)2
+_chemical_formula_sum   'Ag4 Mo8 O32'
+_cell_volume   1153.43353927
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  2  0.03940000  0.37160000  0.60140000  1.0
+  Ag  Ag1  2  0.12990000  0.04350000  0.58410000  1.0
+  Mo  Mo2  2  0.23450000  0.70230000  0.54280000  1.0
+  Mo  Mo3  2  0.31140000  0.42250000  0.75440000  1.0
+  Mo  Mo4  2  0.35620000  0.63650000  0.29640000  1.0
+  Mo  Mo5  2  0.42630000  0.35490000  0.50930000  1.0
+  O  O6  2  0.02100000  0.86800000  0.28880000  1.0
+  O  O7  2  0.08460000  0.61930000  0.56000000  1.0
+  O  O8  2  0.11570000  0.13610000  0.36500000  1.0
+  O  O9  2  0.15830000  0.34980000  0.76630000  1.0
+  O  O10  2  0.18820000  0.84160000  0.55260000  1.0
+  O  O11  2  0.19710000  0.55630000  0.33610000  1.0
+  O  O12  2  0.26220000  0.59440000  0.71820000  1.0
+  O  O13  2  0.26860000  0.28820000  0.52890000  1.0
+  O  O14  2  0.28610000  0.96990000  0.71210000  1.0
+  O  O15  2  0.30600000  0.76550000  0.35380000  1.0
+  O  O16  2  0.32400000  0.36260000  0.91460000  1.0
+  O  O17  2  0.36720000  0.53030000  0.52280000  1.0
+  O  O18  2  0.39820000  0.72700000  0.12730000  1.0
+  O  O19  2  0.42990000  0.30880000  0.69240000  1.0
+  O  O20  2  0.45950000  0.75390000  0.51420000  1.0
+  O  O21  2  0.46580000  0.48420000  0.31970000  1.0

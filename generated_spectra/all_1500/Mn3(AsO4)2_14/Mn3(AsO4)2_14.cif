@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mn3(AsO4)2
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.42780000
+_cell_length_b   6.84210000
+_cell_length_c   10.11477543
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.74142123
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   Mn3(AsO4)2
+_chemical_formula_sum   'Mn6 As4 O16'
+_cell_volume   338.36090002
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  4  0.22547000  0.14616000  0.62300000  1.0
+  Mn  Mn1  2  0.50000000  0.00000000  0.00000000  1.0
+  As  As2  4  0.15066000  0.65721000  0.69365000  1.0
+  O  O3  4  0.12083000  0.65430000  0.08073000  1.0
+  O  O4  4  0.16272000  0.11820000  0.81412000  1.0
+  O  O5  4  0.26689000  0.03310000  0.13099000  1.0
+  O  O6  4  0.37946000  0.69840000  0.86796000  1.0
