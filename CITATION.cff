@@ -14,6 +14,6 @@ license: "CC-BY-4.0"
 keywords:
   - powder X-ray diffraction
   - PXRD
-  - candidate list retrieval
   - benchmark
-  - theoretical spectrum library
+  - benchmark dataset
+  - powder diffraction spectra
